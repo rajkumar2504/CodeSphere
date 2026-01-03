@@ -1,6 +1,6 @@
 # CodeSphere - Coding Education Platform
 
-deSphere An advanced full-stack competitive programming platform designed to help developers master algorithms and data structures.
+CodeSphere An advanced full-stack competitive programming platform designed to help developers master algorithms and data structures.
 
 🚀 Key Features:
 
