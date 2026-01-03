@@ -1,6 +1,15 @@
 # CodeSphere - Coding Education Platform
 
-A full-stack competitive programming platform inspired by LeetCode, built with React, Node.js, and SQLite.
+deSphere An advanced full-stack competitive programming platform designed to help developers master algorithms and data structures.
+
+🚀 Key Features:
+
+Code Execution Engine: Secure, sandboxed execution for JavaScript, Python, Java, and C++ using Judge0.
+Modern UI/UX: Built with React 19, Vite, and Tailwind CSS for a responsive, dark-mode-first experience.
+Backend: Scalable Node.js and Express API managing submissions, test cases, and user progress.
+AI Integration: Real-time code hints and complexity analysis powered by the Groq API.
+Authentication: Secure user sessions with Firebase Auth.
+Database: Efficient data management with SQLite (local) and PostgreSQL (production).
 
 ## 🚀 How to Run Locally
 
